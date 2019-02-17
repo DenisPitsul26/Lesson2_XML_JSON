@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<trains>
+   <train id="1">
+      <from>Kiev</from>
+      <to>Chernivtsy</to>
+      <date>19-01-2019 15:05</date>
+   </train>
+   <train id="2">
+      <from>Donetsk</from>
+      <to>Dnipro</to>
+      <date>17-02-2019 14:05</date>
+   </train>
+   <train id="3">
+      <from>Zhitomir</from>
+      <to>Rivne</to>
+      <date>23-03-2019 16:05</date>
+   </train>
+</trains>
